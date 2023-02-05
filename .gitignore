@@ -21,7 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/target/
-.classpath
-.project
-.settings/*
+learn-spring-framework-01/target/*
+learn-spring-framework-01/.classpath
+learn-spring-framework-01/.project
+learn-spring-framework-01/.settings/*
+
+learn-spring-framework-02/target/*
+learn-spring-framework-02/.classpath
+learn-spring-framework-02/.project
+learn-spring-framework-02/.settings/*
