@@ -30,3 +30,10 @@ learn-spring-framework-02/target/*
 learn-spring-framework-02/.classpath
 learn-spring-framework-02/.project
 learn-spring-framework-02/.settings/*
+learn-spring-framework-02/.idea/*
+
+learn-jpa-and-hibernate-03/target/*
+learn-jpa-and-hibernate-03/.classpath
+learn-jpa-and-hibernate-03/.project
+learn-jpa-and-hibernate-03/.settings/*
+learn-jpa-and-hibernate-03/.idea/*
